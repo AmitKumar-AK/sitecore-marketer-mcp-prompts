@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "sitecore-marketer-mcp": {
+      "url": "https://edge-platform.sitecorecloud.io/mcp/marketer-mcp-prod",
+      "auth": {
+        "type": "external"
+      },
+      "type": "http"
+    }
+  }
+}
