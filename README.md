@@ -29,3 +29,8 @@ This repository provides ready-to-use `mcp.json` configuration and a collection 
     }
   }
 }
+```
+
+## Prompts Folder Reference
+
+All prompt files are located in the [docs/prompts](docs/prompts) folder. Browse this directory for ready-to-use examples and guides for Sitecore Marketer MCP operations.
